@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default theme: NoActionBar -->
+    <style name="Theme.HotCoffee" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#663C1F</item>
+        <item name="colorPrimaryDark">#3D2412</item>
+        <item name="colorAccent">#FCFBF4</item>
+    </style>
+
+    <!-- WelcomeActivity: NoActionBar -->
+    <style name="Theme.HotCoffee.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#663C1F</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">#FCFBF4</item>
+    </style>
+
+</resources>
